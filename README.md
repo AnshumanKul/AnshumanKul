@@ -1,7 +1,5 @@
 <h1 align="center">Hi I'm Anshuman Kulkarni</h1>
 <h3 align="center">Aspiring AIML Engineer</h3>
----
-
 
 ## Connect with Me
 <a href="https://www.linkedin.com/in/anshuman-kulkarnii-25b2a4290/" target="_blank">
