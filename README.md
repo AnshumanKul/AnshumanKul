@@ -24,7 +24,10 @@ Goal: To secure a role where I can apply and grow my AI/ML skills
 ## Tech Stack
 
 **Languages:**  
-Java | Python  
+Java | Python
+
+**ML & Data Science:**
+Scikit-learn | TensorFlow | Pandas | NumPy |Matplotlib | Seaborn
 
 **Tools & Technologies:**  
 Git  
