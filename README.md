@@ -1,6 +1,14 @@
 <h1 align="center">Hi I'm Anshuman Kulkarni</h1>
 <h3 align="center">Aspiring AIML Engineer</h3>
+---
+## Connect with Me
+<a href="https://www.linkedin.com/in/anshuman-kulkarnii-25b2a4290/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
+<a href="mailto:anshumansk25@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
 ---
 
 ## About Me
@@ -67,10 +75,7 @@ SQL | MongoDB
 
 ---
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anshuman-kulkarnii-25b2a4290/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail)](mailto:anshumansk25@gmail.com)
 ---
 
 ⭐ *Always open to learning, collaborating, and building impactful AI solutions*
