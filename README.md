@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/anshuman-kulkarnii-25b2a4290/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-
+<br>
 <a href="mailto:anshumansk25@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
