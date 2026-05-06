@@ -24,7 +24,7 @@ Goal: To secure a role where I can apply and grow my AI/ML skills
 **Languages:**  
 Java | Python
 
-**ML & Data Science:**
+**ML & Data Science:** <br>
 Scikit-learn | TensorFlow | Pandas | NumPy |Matplotlib | Seaborn
 
 **Tools & Technologies:**  
