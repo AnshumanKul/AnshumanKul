@@ -35,12 +35,30 @@ SQL | MongoDB
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### Stress Detection using Voice Analysis (Dec 2025 – Present)
-- Developed a **Random Forest model** using voice and acoustic features  
-- Performed **Exploratory Data Analysis (EDA)** to improve data quality  
-- Achieved **84% accuracy** and **81% F1-score** after optimization  
+### 🔊 Stress Detection using Voice Analysis (Dec 2025 – Present)
+- Developed a **Random Forest model** using voice and acoustic features
+- Performed **Exploratory Data Analysis (EDA)** to improve data quality
+- Achieved **84% accuracy** and **81% F1-score** after optimization
+
+---
+
+### 🏭 Industrial IoT Predictive Maintenance Dashboard (AI4I 2020 Dataset)
+- Built an **end-to-end ML pipeline** for predicting machine failures using industrial IoT sensor data
+- Compared **unsupervised** (Isolation Forest, One-Class SVM) vs **supervised** (Random Forest) approaches
+- **Random Forest** selected as final model — achieved **0.87 recall** and **0.68 F1-score** for failure detection
+- Successfully detected **34 out of 39 failures** in the test set with only 5 misses
+- Key predictors identified: **Torque**, **Rotational Speed**, and **Tool Wear**
+- Deployed an interactive **Streamlit dashboard** for real-time failure prediction
+- Serialized final model using **Joblib** for production use
+
+**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Streamlit` `Joblib`
+
+**Confusion Matrix (Random Forest):**
+
+[[1934   27]<br>
+[   5   34]]
 
 ---
 
