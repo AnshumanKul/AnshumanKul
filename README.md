@@ -78,4 +78,4 @@ SQL | MongoDB
 
 ---
 
-⭐ *Always open to learning, collaborating, and building impactful AI solutions*
+*Always open to learning, collaborating, and building impactful AI solutions*
