@@ -2,6 +2,7 @@
 <h3 align="center">Aspiring AIML Engineer</h3>
 
 ## Connect with Me
+<p align="center">
 <a href="https://www.linkedin.com/in/anshuman-kulkarnii-25b2a4290/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
@@ -37,14 +38,14 @@ SQL | MongoDB
 
 ## Featured Projects
 
-### 🔊 Stress Detection using Voice Analysis (Dec 2025 – Present)
+###  Stress Detection using Voice Analysis (Dec 2025 – Present)
 - Developed a **Random Forest model** using voice and acoustic features
 - Performed **Exploratory Data Analysis (EDA)** to improve data quality
 - Achieved **84% accuracy** and **81% F1-score** after optimization
 
 ---
 
-### 🏭 Industrial IoT Predictive Maintenance Dashboard (AI4I 2020 Dataset)
+###  Industrial IoT Predictive Maintenance Dashboard (AI4I 2020 Dataset)
 - Built an **end-to-end ML pipeline** for predicting machine failures using industrial IoT sensor data
 - Compared **unsupervised** (Isolation Forest, One-Class SVM) vs **supervised** (Random Forest) approaches
 - **Random Forest** selected as final model — achieved **0.87 recall** and **0.68 F1-score** for failure detection
@@ -54,11 +55,6 @@ SQL | MongoDB
 - Serialized final model using **Joblib** for production use
 
 **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Streamlit` `Joblib`
-
-**Confusion Matrix (Random Forest):**
-
-[[1934   27]<br>
-[   5   34]]
 
 ---
 
@@ -83,17 +79,12 @@ SQL | MongoDB
 
 #### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshumanKul&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshumanKul&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshumanKul&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AnshumanKul&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanKul&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanKul&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
----
-
-
----
-
 *Always open to learning, collaborating, and building impactful AI solutions*
